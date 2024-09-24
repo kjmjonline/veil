@@ -7,6 +7,6 @@ This change log follows the conventions of
 ## 1.0.0 -- 2024-09-20
 
 * First version. This is a continuation of the now obsoleted and discontinued
-[go-common](https://github.com/kjmjonline/go-common/ "link to go-common").
+[go-minor](https://github.com/kjmjonline/go-minor/ "link to go-minor").
 
 [Unreleased]: https://github.com/kjmjonline/veil/compare/v1.0.0...HEAD
